@@ -3,8 +3,8 @@
 Documented cloud security investigations, built in a live Azure tenant
 (Mad Hat Labs, a multi-user training environment).
 
-Target role: SOC Analyst / Security Analyst
-Currently: [your role] | [City / Remote]
+Target role: Security Engineer / Security Analyst
+Currently: Software Engineer | Remote
 Contact: rywilldav@gmail.com · [LinkedIn](https://www.linkedin.com/in/ryanwilliam-davis/)
 
 ## Investigations
