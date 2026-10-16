@@ -8,9 +8,9 @@ Currently: Software Engineer | Remote
 Contact: rywilldav@gmail.com · [LinkedIn](https://www.linkedin.com/in/ryanwilliam-davis/)
 
 ## Investigations
-| # | Title | Focus | Write-up |
+| # | Title | Focus | Documentation |
 |---|-------|-------|----------|
-| 1 | Operation Dead Deploy | Governance forensics, deployment audit trail | coming, week 1 |
+| 1 | Operation Dead Deploy | Governance forensics, deployment audit trail | [Write-up #1](https://github.com/rywilldav/security-portfolio/blob/main/chapter-1/README.md) |
 | 2 | The Stolen Identity | App registration attack kill chain (Entra ID) | coming, week 2 |
 | 3 | Privilege Audit | RBAC and least privilege | coming, week 3 |
 | 4 | Spin Up and Lock Down | Compute attack surface | coming, week 4 |
