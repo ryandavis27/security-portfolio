@@ -16,6 +16,8 @@ Step 1. After signing in with my credentials, I look into the Resource groups fo
 
 ![Screenshot of a Tenant's Azure resource groups](image-1.png)
 
+Step 2. 
+
 to be continued...
 
 <!--
