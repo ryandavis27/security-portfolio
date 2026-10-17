@@ -16,7 +16,13 @@ Step 1. After signing in with my credentials, I look into the Resource groups fo
 
 ![Screenshot of a Tenant's Azure resource groups](image-1.png)
 
-Step 2. 
+Step 2. I move into the misnamed resource group to find that it only includes one resource, a storage account.
+
+![Screenshot of a Tenant's Azure resource dashboard](image-2.png)
+
+Step 3. I dig further and investigate the lone storage account to see why this resource was allowed to be created in the first place. Going from top to bottom down the blade menu, Overview and the Activity log weren't throwing any real red flags, but the Tags showed that the intern at least tagged a test resource as instructed (shown below).
+
+![Screenshot of an Azure storage account 'Tags' dashboard](image-3.png)
 
 to be continued...
 
